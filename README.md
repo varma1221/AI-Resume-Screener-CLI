@@ -22,10 +22,13 @@ Beginner-friendly, lightweight, and easy to run locally
 4) fuzzywuzzy – Fuzzy string comparison
 
 **🚀 How to Run**
+
 **Install required libraries:**
+
 pip install pdfplumber nltk fuzzywuzzy python-Lemmatization
 
 **Run the script:**
+
 python AI-Resume-Screener-CLI.py
 
 When prompted, enter the full file paths to:
