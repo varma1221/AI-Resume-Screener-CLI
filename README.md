@@ -2,6 +2,7 @@
 A beginner-friendly command-line tool that compares a resume PDF with a job description PDF and calculates a keyword-based match score using basic Natural Language Processing (NLP) techniques.
 
 **📌 Project Description**
+
 This project reads two PDF files — one containing a candidate’s resume and the other a job description and processes the text to calculate a match percentage. It uses elementary NLP techniques such as tokenization, stopword removal, lemmatization, and fuzzy string comparison to identify keyword overlaps between the two documents.
 
 While the accuracy is basic, the intent is educational: to simulate a real-world screening concept using beginner-level tools.
