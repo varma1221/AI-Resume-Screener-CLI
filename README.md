@@ -21,6 +21,13 @@ Beginner-friendly, lightweight, and easy to run locally
 3) nltk – Tokenization, stopword removal, POS tagging, lemmatization
 4) fuzzywuzzy – Fuzzy string comparison
 
+**📁 Project Structure**
+AI-Resume-Screener-CLI/
+├── AI-Resume-Screener-CLI.py      # Main script file
+├── LICENSE                        # MIT License
+├── README.md                      # Project description and instructions
+├── requirements.txt               # Dependency list for pip install
+
 **🚀 How to Run**
 
 **Install required libraries:**
