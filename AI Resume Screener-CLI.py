@@ -21,8 +21,9 @@ from nltk import pos_tag
 from nltk.corpus import wordnet
 from rapidfuzz import fuzz
 
-#Ho Ho Ho, this is Santa Claus
-#Want some toys??
+# Stay out of my territory
+# SAY MY NAME!!!
+# You're Goddamn Right!!!!!
 
 # Get file paths from user input
 resume_path: str = input("📄 Enter the path to your RESUME PDF: ").strip('"')
