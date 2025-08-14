@@ -1,4 +1,9 @@
 # AI-Resume-Screener-(Command Line Version)
+
+[![Python](https://img.shields.io/badge/python-3.13%2B-blue)](https://www.python.org/downloads/)
+[![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
+[![CS50P](https://img.shields.io/badge/CS50P-Final%20Project-red.svg)](https://cs50.harvard.edu/python/)
+
 A beginner-friendly command-line tool that compares a resume PDF with a job description PDF and calculates a keyword-based match score using basic Natural Language Processing (NLP) techniques.
 
 **📌 Project Description**
